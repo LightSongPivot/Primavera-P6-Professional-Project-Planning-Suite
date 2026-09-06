@@ -1,0 +1,23 @@
+{
+  "repo": "primavera-p6-professional-project-planning-suite",
+  "product": "Primavera P6 Professional Project Planning Suite",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "utility",
+  "topics": [
+    "primavera-p6",
+    "gantt-planning",
+    "critical-path",
+    "resource-leveling",
+    "project-baselines",
+    "primavera-setup-failed-fix",
+    "how-to-install-primavera",
+    "primavera-windows",
+    "primavera-desktop-2026",
+    "primavera-desktop-package"
+  ],
+  "site": "toolix.me"
+}
